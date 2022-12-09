@@ -28,7 +28,7 @@ A hypothesis is an educated guess/claim about a particular property of an object
 * Find the critical value of z in the z-test using
 * Calculate the z-test statistics. Below is the formula for calculating the z-test statistics.
 *
-![image](https://user-images.githubusercontent.com/108605935/206688908-3796d105-c63d-4e2e-9e50-1afae0ce7fcc.png)
+![image](https://user-images.githubusercontent.com/108605935/206689132-50cd62fb-de32-4307-9321-0a659f2a0476.png)
 
 where,
 X¯: mean of the sample.
