@@ -37,6 +37,6 @@ X¯: mean of the sample.
 Mu: mean of the population.
 Sd: Standard deviation of the population.
 n: sample size.
-Now compare with the hypothesis and decide whether to reject or not to reject the null hypothesis
+Now compare with the hypothesis and decide whether to reject or not to reject the null hypothesis.
 
 
