@@ -2,10 +2,10 @@
 
  Z-Test is  statistical hypothesis test  used to determine if the difference between the sample mean and population mean is statistically significant.
  
- Null hypothesis, H_0. This what you believe to be true from the population, which could be the mean of the population
+ #### # Null hypothesis, H_0. This what you believe to be true from the population, which could be the mean of the population
  ![image](https://user-images.githubusercontent.com/108605935/206684452-13c3efb8-a114-4b79-b7d4-a0c4499a2f7b.png)
-State the alternate hypothesis, H_1. This what you observe from your sample. If the sample mean is different from the population’s mean, then we say the mean is not equal 
-![image](https://user-images.githubusercontent.com/108605935/206684643-fd3c950b-7a7f-451c-b2ee-02192d06536d.png)
+#### # Alternate hypothesis, H_1. This what you observe from your sample. If the sample mean is different from the population’s mean, then we say the mean is not equal 
+![image](https://user-images.githubusercontent.com/108605935/206684643-fd3c950b-7a7f-451c-b2ee-02192d06536d.png)  
 
 Compute the Z-Test Statistic using the sample mean, μ_1, the population mean, μ_0, the number of data points in the sample, n and the population’s standard deviation, σ:
 ![image](https://user-images.githubusercontent.com/108605935/206685035-b3dae7e4-b86e-45e0-a9bc-2c5a0499eb96.png)
